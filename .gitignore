@@ -1,0 +1,3 @@
+#ignore arquivos da IDE
+.idea/*
+__pycache__/
